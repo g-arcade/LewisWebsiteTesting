@@ -1,0 +1,13 @@
+:root {
+  background-color: papayawhip;
+  font-family: monospace;
+}
+
+h1 {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  bottom: 1;
+}
